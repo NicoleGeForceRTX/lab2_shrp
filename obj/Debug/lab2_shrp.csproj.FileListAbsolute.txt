@@ -1,0 +1,8 @@
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\bin\Debug\lab2_shrp.exe.config
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\bin\Debug\lab2_shrp.exe
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\bin\Debug\lab2_shrp.pdb
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\obj\Debug\lab2_shrp.csproj.AssemblyReference.cache
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\obj\Debug\lab2_shrp.csproj.SuggestedBindingRedirects.cache
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\obj\Debug\lab2_shrp.csproj.CoreCompileInputs.cache
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\obj\Debug\lab2_shrp.exe
+C:\Users\асер\source\repos\lab2_shrp\lab2_shrp\obj\Debug\lab2_shrp.pdb
